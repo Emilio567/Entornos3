@@ -5,6 +5,7 @@ class CuentaBancaria
 	private String nomTitular;
 	private double saldo;
 	private int TipoIntereses
+	privaete int beneficios
 
 	//Metodos
 	
