@@ -5,6 +5,7 @@ class CuentaBancaria
 	private String nomTitular;
 	private double saldo;
 	private int TipoIntereses
+	
 
 	//Metodos
 	
@@ -36,7 +37,11 @@ class CuentaBancaria
 	
 	public void setTipoIntereses(int TipoIntereses)
 	}
+<<<<<<< HEAD
 		this.TipoIntereses = TipoIntereses
+=======
+		this.TipoIntereses = TipoIntereses;
+>>>>>>> emilio_secundaria1
 	}
 		
 	////////////////////////////////////////////////////////////////////////////
@@ -66,7 +71,11 @@ class CuentaBancaria
 	
 	public int getTipoIntereses()
 	{
+<<<<<<< HEAD
 		return TipoIntereses;
+=======
+		return TipoIntereses:
+>>>>>>> emilio_secundaria1
 	}
 		
 	////////////////////////////////////////////////////////////////////////////
